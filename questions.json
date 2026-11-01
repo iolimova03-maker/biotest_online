@@ -1,0 +1,322 @@
+[
+  {
+    "n": 1,
+    "q": "Butli o'rgimchak  mansub bo'lgan  barcha tip vakillari uchun xos belgilarni ko'rsating\n1) tanasi xitin bilan qoplangan  2) yurish oyog'i  to'rt juft  3) ikkilamchi konsument 4) tullab o'sadi  5) ko'zlari oddiy  6) zaxar bezi bor 7)\nlichinkasiz rivojlanadi 8) qon aylanish sistemasi ochiq",
+    "options": {
+      "A": "2,3,4",
+      "B": "1,4,8",
+      "C": "3,4,5",
+      "D": "1,3,5"
+    }
+  },
+  {
+    "n": 2,
+    "q": "Go`shti uchun ovlanadigan molluska(a) va qisqichbaqasimon(b) ni aniqlang.",
+    "options": {
+      "A": "a-ustiritsa, midiya, taroqcha b-omar, langust, krevetka",
+      "B": "a-osminog, kalmar, karakatitsa b-bitiniya, tridakna, dresera",
+      "C": "a-ustiritsa, krab, osminog  b-kalmar, karakatitsa, krevetka",
+      "D": "a-midiya, taroqcha, langust b-mangust, krevetka, krab"
+    }
+  },
+  {
+    "n": 3,
+    "q": "Temirchak mansub bo'lgan  turkum vakillari uchun xos bo'lmagan belgilarni ko'rsating\n1) ikkilamchi konsument 2) lichinkasida oyoqlar  soni 8 juft                3) voyaga etgan organizmning ogiz apparati lichinkaning ogiz\napparati bilan o'xshaydi  4) lichinkasi tullab turadi 5) ikki juft qanoti bir xil tuzilgan 6) lichinkasi g'umbak xosil qiladi  7) oyog'i  bir\nxil emas",
+    "options": {
+      "A": "4,5,6",
+      "B": "3,4,7",
+      "C": "1,5,6",
+      "D": "2,5,7"
+    }
+  },
+  {
+    "n": 4,
+    "q": "Yassi chuvalchanlar qaysi hayvonlardan kelib chiqqan?",
+    "options": {
+      "A": "ichaksiz kiprikli chuvalchanglardan",
+      "B": "gidrasimonlardan",
+      "C": "halqali chuvalchanlardan",
+      "D": "meduzalardan"
+    }
+  },
+  {
+    "n": 5,
+    "q": "Ayirish sistemasi bir uchi berk nayga ega hayvonlarni aniqlang.\n1) podoliya; 2) krivetka; 3) maxaon; 4) omar; 5) zo'rka;\n6) yalang'och shillig'i",
+    "options": {
+      "A": "1, 3, 5",
+      "B": "2, 4, 6",
+      "C": "1, 2, 6",
+      "D": "3, 4, 5"
+    }
+  },
+  {
+    "n": 6,
+    "q": "Yomg'ir chuvalchangining askaridaga o'xshash (a) va farq qiluvchi (b) belgilarni aniqlang\n1. Tashqi tomondan kutikula bilan qoplangan  2. Halqum atrofi nerv xalqasiga ega    3. Tuxumdan lichinga rivojlanadi  4. Erkin xayot kechiradi\n5. Ichki organlari tana bo'lig'ida joylashadi\n6. Germafrodit hayvon",
+    "options": {
+      "A": "a-2.5 v-4.6",
+      "B": "a-2.6 v-3.5",
+      "C": "a-1.4 v-3.6",
+      "D": "a-1.6 v-4.5"
+    }
+  },
+  {
+    "n": 7,
+    "q": "Odam askaridasidagi qaysi belgilar jigar qurtida uchramaydi\n1. tananing kutikula bilan qoplanishi  2. Tana bo'shlig'ining g'ovak to'qima bilan to'lganligi   3. Ayrim jinsli bo'lishi\n4. Rivojlanishda lichinkalik davrining bo'lishi\n5. Anal teshigining mavjudligi 6. Ichak naychalarining uchi yopiqligi.",
+    "options": {
+      "A": "3.5",
+      "B": "1.4",
+      "C": "2.6",
+      "D": "4.5"
+    }
+  },
+  {
+    "n": 8,
+    "q": "Noto`g`ri javobni aniqlang.",
+    "options": {
+      "A": "Rishta tirik lichinkalar tug`ib ko`payadi",
+      "B": "Odam exinakokkning asosiy xo`jayini hisoblanadi",
+      "C": "zuluklar chuchuk suvda yashaydi",
+      "D": "Taroqcha  go`shti uchun ovlanadi"
+    }
+  },
+  {
+    "n": 9,
+    "q": "O`simlikxo`r(a), yirtqich(b) va parazit(c) hayvonlarni aniqlang.",
+    "options": {}
+  },
+  {
+    "n": 1,
+    "q": "bronza qo`ng`iz 2.xonqizi 3.so`na 4.ninachi 5.mita 6.tillako`z 7.to`shak qandalasi 8.olma mevaxo`ri 9.tunlam",
+    "options": {
+      "A": "a-9 b-6 c-3",
+      "B": "a-1 b-5 c-7",
+      "C": "a-8 b-4 c-2",
+      "D": "a-6 b-2  c-7"
+    }
+  },
+  {
+    "n": 10,
+    "q": "Quyidagi hayvonlardan qaysilarida metamarfoz bosqichida o`g`iz organi o`zgarmaydi.",
+    "options": {}
+  },
+  {
+    "n": 1,
+    "q": "bronza qo`ng`iz 2.bit 3.suluv ninachi 4.kuya 5.burga 6.podalariy 7.chigirtka 8.katta sadafdor",
+    "options": {
+      "A": "3,7",
+      "B": "4,7",
+      "C": "2,5",
+      "D": "1,3"
+    }
+  },
+  {
+    "n": 11,
+    "q": "Qon aylanish sistemasi ochiq oddiy ko`rishga(a) va mozaik ko`rishga(b) xos bo`lgan organizmlarni aniqlang.",
+    "options": {}
+  },
+  {
+    "n": 1,
+    "q": "zaxkash 2.biy 3.buzoqbosh 4.mol kana 5.sariq chayon",
+    "options": {
+      "A": "a-1,3,4 b-2,5,6",
+      "B": "a-2,5,6 b-1,3,4",
+      "C": "a-1,3,5 b-2,4,6",
+      "D": "a-1,3,4,5 b-2,6"
+    }
+  },
+  {
+    "n": 12,
+    "q": "Tanasi bosh, ko`krak, qorin bo`limlaridan iborat bo`lmagan, mozaik ko`rishga xos bo`lgan organizmlarni aniqlang.",
+    "options": {}
+  },
+  {
+    "n": 1,
+    "q": "omar 2.buzoqbosh 3.zorka 4.langust 5.krevetka 6.trixogramma 7.drozofila",
+    "options": {
+      "A": "1,4,5",
+      "B": "1,2,3,7",
+      "C": "1,3,6,7",
+      "D": "1,4,5,7"
+    }
+  },
+  {
+    "n": 13,
+    "q": "Yuragiga faqat kislorodga ega bo`lmagan qon keladigan mozaik ko`rishga ega bo`lgan organizmlarni aniqlang.",
+    "options": {}
+  },
+  {
+    "n": 1,
+    "q": "sariq chayon 2.mita qong`izi 3.o`laksaxo`r qo`ng`izi 4.eshakqurt 5.langust 6.krevetka 7.tukli ari",
+    "options": {
+      "A": "2,3,7",
+      "B": "1,5,6",
+      "C": "2,3,7",
+      "D": "2,3,5,6,7"
+    }
+  },
+  {
+    "n": 14,
+    "q": "Qizil chuvalchangining rishtadan farqli jihatlarni aniqlang.\n1) erkin hayot kechiradi; 2) yassi vhuvalchanglardan kelib chiqqan;  3) noto'g'ri metamarfoz bilan rivojlanadi; 4) parazit organizm; 5) ichki\norganlari tana bo'shlig'ida joylashadi; 6) erkagining jinsiy sistemasi\nA) 1, 6?) 3 ,6 ?) 2, 5 D) 3, 5",
+    "options": {}
+  },
+  {
+    "n": 15,
+    "q": "Ayirish sistemasi ikki uchi ochiq nayga ega hayvonlarni aniqlang.\n1) kulrang satir; 2) langust; 3) apollon; 4) qoraqurt; 5) tovusko'z; 6) bitinya",
+    "options": {
+      "A": "2, 4, 6",
+      "B": "1, 3, 5",
+      "C": "1, 2, 6",
+      "D": "3, 4, 5"
+    }
+  },
+  {
+    "n": 16,
+    "q": "Pilla ichiga tuxum qo'yuvchi organizmlarni aniqlang.",
+    "options": {
+      "A": "Planariya, yomg'ir chuvalchangi",
+      "B": "Suv shillig'I, qurbaqa",
+      "C": "butli o'rgimchak, chayon",
+      "D": "jigar qurti, exenakok"
+    }
+  },
+  {
+    "n": 17,
+    "q": "O'zbekistonda uchramaydigan molluskalar.1) bedapoya shillig'I; 2) tok shillig'I; 3) langust; 4) midiya; 5) Kalmar; 6) baqachanoq",
+    "options": {
+      "A": "2, 4, 5",
+      "B": "1, 3, 6",
+      "C": "1, 2, 6",
+      "D": "3, 4, 5"
+    }
+  },
+  {
+    "n": 18,
+    "q": "Jigar qurtida parazitlikka moslanish belgilarini aniqlang.\n1) kutikula bilan qoplanish; 2) anal teshigi bo'lishi; 3) kiprikli lichen\nkasini bo'lishi; 4) so'rg'ichlarining bo'lishi; 5) ikki shoxli ichak;\n6) mitoxondriya yo'qligi.",
+    "options": {
+      "A": "1, 4, 6",
+      "B": "2, 3, 5",
+      "C": "1, 2, 4",
+      "D": "3,5,6"
+    }
+  },
+  {
+    "n": 19,
+    "q": "Ishchi termitlarga xos xususiyatlarni aniqlang. 1) boshi yirik; 2) jag'i kuchli; 3) tanasi oq; 4) voyaga yetmagan urg'ochi; 5) in qurish; 6)\nqo'riqlash",
+    "options": {
+      "A": "3, 4, 5",
+      "B": "1, 2, 6",
+      "C": "2, 5, 6",
+      "D": "1, 2, 4"
+    }
+  },
+  {
+    "n": 20,
+    "q": "Tuxumi tuproqda rivojlanuvchi bo'g'imoyoqlilarni aniqlang.1) temirchak; 2) karam kapalagi; 3) chirildoq; 4) kolorado qo'ng'izi; 5) chigirtka\n6) chivin]",
+    "options": {
+      "A": "1, 3, 5",
+      "B": "2, 4",
+      "C": "1, 2",
+      "D": "2, 4, 6"
+    }
+  },
+  {
+    "n": 21,
+    "q": "Suv shillig'iga xos bo'lgan xususiyatlarni aniqlang.1) uch juft nerv tuguni; 2) Mantiya bo'shlig'I; 3) so'lak bezlari; 4) qorinchadan kata\nqon aylanish sistemasi; 5) xaltasimon o'pka; 6) ayrim jinsli.",
+    "options": {
+      "A": "2, 3, 5",
+      "B": "1, 4, 6",
+      "C": "1, 2, 5",
+      "D": "3, 4, 6"
+    }
+  },
+  {
+    "n": 22,
+    "q": "Qaysi hayvonning ozig'i chigirtka,  qo'ng'iz, qandala",
+    "options": {
+      "A": "qora qurt",
+      "B": "ukki",
+      "C": "boyo'g'li",
+      "D": "falanga"
+    }
+  },
+  {
+    "n": 23,
+    "q": "Voyaga yetgan organizm va uning lichinkasi bir xil og'iz apparatiga ega bo'lgan hasharotlar to'g'ri ko'rsatilgan javobni belgilang.\n1) podalariy; 2) temirchak; 3) maxaon; 4) ninachi; 5) bronza qo'ng'izi.",
+    "options": {
+      "A": "1, 3",
+      "B": "2, 3, 5",
+      "C": "1, 4",
+      "D": "2, 4, 5"
+    }
+  },
+  {
+    "n": 24,
+    "q": "Kolbada suvda evglena  va volvokslar soni 60 ta ularning xivchinlar soni 80 ta bolsa, kolbada volvoks xivchinlar soni nechta?",
+    "options": {
+      "A": "20",
+      "B": "40",
+      "C": "80",
+      "D": "60"
+    }
+  },
+  {
+    "n": 25,
+    "q": "Noto`g`ri malumotlarni aniqlang.",
+    "options": {
+      "A": "Meduzalar qadimgi nursimonlardan kelib chiqqan",
+      "B": "Rishta qadimgi kipriklilardan kelib chiqqan",
+      "C": "Gidrasimonlar  qadimgi koloniya bo`lib yashovchi bir hujayrali xivchinlilardan kelib chiqqan",
+      "D": "Qizil chuvalchanglar qadimgi kipriklilardan kelib chiqqan"
+    }
+  },
+  {
+    "n": 26,
+    "q": "Tuproqdagi tik inda (a), ko`p kamerali inda (b) va tuproq yuzasidagi inda (c) yashovchi bo`g`imoyoqlillarni toping.",
+    "options": {
+      "A": "a-biy; b-chumoli; c-O`rta Osiyo termitlari",
+      "B": "a-chigirtka; b-oq chumoli; c-yomg`ir chuvalchangi",
+      "C": "a-chumoli; b-termit; c-chirildoq",
+      "D": "a-biy; b-chigirtka; c-Turkiston termiti"
+    }
+  },
+  {
+    "n": 27,
+    "q": "Qon aylanish sistemasi tutashgan va tutashmagan  hayvonlarni   belgilang?",
+    "options": {
+      "A": "Yomg`ir chuvalchangi    va   daryo qisqichbaqasi",
+      "B": "butli o`rgimchak   va  yomg`ir chuvalchangi",
+      "C": "bronza qo`ng`izi  va  lansetnik",
+      "D": "daryo qisqichbaqasi  va  siklop"
+    }
+  },
+  {
+    "n": 28,
+    "q": "CHala   o`zgarish   bilan   rivojlanuvchi  ovoz  chiqarish  va  eshitish  azolariga ega bo`lgan hashoratlarni belgilang?",
+    "options": {
+      "A": "chirildoq,temirchak,jizzildoq",
+      "B": "chirildoq,suvarak",
+      "C": "jizzildoq,tunlam kapalagi,qora chigirtka",
+      "D": "termitlar,qandala"
+    }
+  },
+  {
+    "n": 29,
+    "q": "yirish sistemalari o'zaro o'xshash hayvonlarni juftlang.\n1) planariya; 2) langust; 3) nereida;  4) bitiniya; 5) yomg'ir chuvalchangi;  6) lansetnik; 7) dafniya; 8) ko'p tukli halqalilar lichinkasi;\n9) kiprikli chuvalchanglar;  10) odam askaridasi; 11)midiya",
+    "options": {
+      "A": "1-5;  2-3;  5-6;  8-10;  2-7",
+      "B": "4-5;  8-9;  3-5-6; 1-8",
+      "C": "1-10;   2-3-7;  4-5;  2-7",
+      "D": "1-5; 3-4-5;  3-5-6; 5-11"
+    }
+  },
+  {
+    "n": 30,
+    "q": "Nozema  qaysi  hayvonlarda  parazitlik  qiladi?",
+    "options": {
+      "A": "kapalaklarda",
+      "B": "tut  ipak  qurti  va  asalarilarda",
+      "C": "pashshalarda",
+      "D": "qisqichbaqalarda va o'rgimchaksimonlarda"
+    }
+  }
+]
